@@ -27,7 +27,7 @@
 
 <h3 align="center"> 🪴 Me 🪴 </h3>
 <p align="center">
-<a href="https://www.instagram.com/zzi._.au/"><img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zzi._.au/"/></a>&nbsp;&nbsp;<a href="https://github.com/hhyyeejjii?tab=overview"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hhyyeejjii/"/></a>
+<a href="https://www.instagram.com/hy3zzis/"><img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zzi._.au/"/></a>&nbsp;&nbsp;<a href="https://github.com/hhyyeejjii?tab=overview"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hhyyeejjii/"/></a>
 <p>
 <h3 align="center"> 🌸 My profile 🌸 </h3>
 
